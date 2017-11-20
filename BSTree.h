@@ -25,7 +25,6 @@ public:
 	void traverse(int order);
 	void inOrder(Node<T>* start);
 	void preOrder(Node<T>* start);
-	void postOrder(Node<T>* start);
 	~BSTree(void);
 };
 
