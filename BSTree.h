@@ -7,7 +7,6 @@ public:
 	Node<T>* left, *right;
 	Node();
 	Node(T val);
-	//تسسسسسسسسسسسسسست
 };
 
 template <class T>
